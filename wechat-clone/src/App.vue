@@ -1,8 +1,9 @@
 <script setup>
+import { ElButton } from 'element-plus'
 </script>
 
 <template>
-  <div>hello</div>
+  <el-button>按钮</el-button>
 </template>
 
 <style scoped>
